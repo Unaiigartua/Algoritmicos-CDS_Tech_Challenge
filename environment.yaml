@@ -121,4 +121,3 @@ dependencies:
       - werkzeug==3.0.1
       - wrapt==1.16.0
       - zipp==3.18.1
-prefix: /home/guayo/anaconda3/envs/HPE
